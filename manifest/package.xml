@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <!-- Custom Objects -->
+    <types>
+        <members>Claim__c</members>
+        <members>Policy__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <!-- Custom Fields (wildcard) -->
+    <types>
+        <members>Claim__c.*</members>
+        <members>Policy__c.*</members>
+        <name>CustomField</name>
+    </types>
+
+    <!-- Apex Classes (wildcard) -->
+    <types>
+        <members>*Claim*</members>
+        <members>*Notification*</members>
+        <members>*Service*</members>
+        <name>ApexClass</name>
+    </types>
+
+    <!-- Apex Triggers -->
+    <types>
+        <members>*Claim*</members>
+        <name>ApexTrigger</name>
+    </types>
+
+    <!-- Flows -->
+    <types>
+        <members>*Claim*</members>
+        <members>*Policy*</members>
+        <name>Flow</name>
+    </types>
+
+    <!-- Email Templates (Case/Claim Notifications) -->
+    <types>
+        <members>*Claim*</members>
+        <members>*Policy*</members>
+        <name>EmailTemplate</name>
+    </types>
+
+    <!-- Layouts -->
+    <types>
+        <members>Claim__c-*</members>
+        <members>Policy__c-*</members>
+        <name>Layout</name>
+    </types>
+
+    <!-- Reports (if used) -->
+    <types>
+        <members>*Claim*</members>
+        <members>*Policy*</members>
+        <name>Report</name>
+    </types>
+
+    <!-- Dashboards (optional) -->
+    <types>
+        <members>*Claim*</members>
+        <name>Dashboard</name>
+    </types>
+
+    <!-- RecordTypes -->
+    <types>
+        <members>Claim__c.*</members>
+        <members>Policy__c.*</members>
+        <name>RecordType</name>
+    </types>
+
+    <!-- Permission Sets (if created) -->
+    <types>
+        <members>*Claim*</members>
+        <members>*Policy*</members>
+        <name>PermissionSet</name>
+    </types>
+
+    <!-- Profiles (optional) -->
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+
+    <!-- Default -->
+    <version>60.0</version>
+
+</Package>

@@ -1,0 +1,11 @@
+Hello {{!Policy__c.OwnerFullName}},
+
+This is a reminder that your health insurance policy {!Policy__c.Policy_Number__c})
+is set to expire on {!Policy__c.End_Date__c}.
+
+To continue enjoying uninterrupted coverage, please renew your policy on or before the expiry date.
+
+If you need any help, feel free to contact our support team.
+
+Thank you,
+CareSure Health Insurance Team
