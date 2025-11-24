@@ -1,0 +1,32 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052w00000FFPttAAH",
+      "createdByName": "Sheik Abdullah K",
+      "createdDate": "2023-05-31T09:25:35.000Z",
+      "fileName": "email/Discount_Request_Responses",
+      "fullName": "Discount_Request_Responses",
+      "id": "00l2w000002gIo9AAE",
+      "lastModifiedById": "0052w00000FFPttAAH",
+      "lastModifiedByName": "Sheik Abdullah K",
+      "lastModifiedDate": "2023-05-31T09:25:35.000Z",
+      "manageableState": "unmanaged",
+      "type": "EmailFolder"
+    },
+    {
+      "createdById": "0052w00000FFPttAAH",
+      "createdByName": "Sheik Abdullah K",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "unfiled$public",
+      "fullName": "unfiled$public",
+      "id": "",
+      "lastModifiedById": "0052w00000FFPttAAH",
+      "lastModifiedByName": "Sheik Abdullah K",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "namespacePrefix": "",
+      "type": "EmailFolder"
+    }
+  ]
+}

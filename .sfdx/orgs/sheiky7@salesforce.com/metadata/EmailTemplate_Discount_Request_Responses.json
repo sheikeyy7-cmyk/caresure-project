@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052w00000FFPttAAH",
+      "createdByName": "Sheik Abdullah K",
+      "createdDate": "2023-05-31T09:31:30.000Z",
+      "fileName": "email/Discount_Request_Responses/Discount_Rejected.email",
+      "fullName": "Discount_Request_Responses/Discount_Rejected",
+      "id": "00X2w000000WwnTEAS",
+      "lastModifiedById": "0052w00000FFPttAAH",
+      "lastModifiedByName": "Sheik Abdullah K",
+      "lastModifiedDate": "2023-05-31T09:31:30.000Z",
+      "manageableState": "unmanaged",
+      "type": "EmailTemplate"
+    },
+    {
+      "createdById": "0052w00000FFPttAAH",
+      "createdByName": "Sheik Abdullah K",
+      "createdDate": "2023-05-31T09:28:45.000Z",
+      "fileName": "email/Discount_Request_Responses/Discount_Approved.email",
+      "fullName": "Discount_Request_Responses/Discount_Approved",
+      "id": "00X2w000000WwnOEAS",
+      "lastModifiedById": "0052w00000FFPttAAH",
+      "lastModifiedByName": "Sheik Abdullah K",
+      "lastModifiedDate": "2023-05-31T09:36:06.000Z",
+      "manageableState": "unmanaged",
+      "type": "EmailTemplate"
+    }
+  ]
+}
